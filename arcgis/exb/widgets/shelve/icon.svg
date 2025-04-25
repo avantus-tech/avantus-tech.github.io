@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2022-2025 Avantus LLC. All rights reserved. -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg3720"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="shelf.svg"
+   inkscape:export-filename="icon.png"
+   inkscape:export-xdpi="6.0614891"
+   inkscape:export-ydpi="6.0614891"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3722"
+     pagecolor="#7f7f7f"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="283.63569"
+     inkscape:cy="448.67997"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3717">
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect5575"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect5575"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect5425"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect5425"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <filter
+       id="mask-powermask-path-effect5062_inverse"
+       inkscape:label="filtermask-powermask-path-effect5062"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5062_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5062_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect5067_inverse"
+       inkscape:label="filtermask-powermask-path-effect5067"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5067_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5067_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect5072_inverse"
+       inkscape:label="filtermask-powermask-path-effect5072"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5072_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5072_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect5184_inverse"
+       inkscape:label="filtermask-powermask-path-effect5184"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5184_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5184_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect5272_inverse"
+       inkscape:label="filtermask-powermask-path-effect5272"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5272_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5272_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect5327_inverse"
+       inkscape:label="filtermask-powermask-path-effect5327"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5327_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5327_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect5375_inverse"
+       inkscape:label="filtermask-powermask-path-effect5375"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5375_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5375_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect5543_inverse"
+       inkscape:label="filtermask-powermask-path-effect5543"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5543_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5543_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect5575">
+      <path
+         id="mask-powermask-path-effect5575_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 20.782959,3.8522644 H 189.21704 V 144.86436 H 20.782959 Z" />
+      <g
+         id="g5573"
+         style="">
+        <rect
+           style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect5563"
+           width="10.024564"
+           height="64.539482"
+           x="41.745155"
+           y="50.641979"
+           ry="3.1923356" />
+        <rect
+           style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect5565"
+           width="24.891956"
+           height="10.582622"
+           x="93.832481"
+           y="78.017395"
+           ry="4.4824677" />
+        <rect
+           style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect5567"
+           width="15.072998"
+           height="6.790349"
+           x="98.741959"
+           y="100.71783"
+           ry="3.3381269" />
+        <rect
+           style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect5569"
+           width="24.862589"
+           height="38.455734"
+           x="152.08972"
+           y="35.532185"
+           ry="3.3381269" />
+        <rect
+           style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect5571"
+           width="39.098503"
+           height="11.602699"
+           x="144.97177"
+           y="115.18758"
+           ry="3.3381269" />
+      </g>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect5575_inverse"
+       inkscape:label="filtermask-powermask-path-effect5575"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect5575_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect5575_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5510"
+       transform="translate(0,6.879167)">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect3724"
+         width="209.51947"
+         height="23.972359"
+         x="0.24026489"
+         y="149.26518"
+         ry="4.4824677" />
+      <g
+         id="g5046"
+         transform="translate(1.5876206,-8.9958338)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect4932"
+           width="14.368583"
+           height="27.565346"
+           x="32.888298"
+           y="178.63835"
+           ry="4.4824677" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect4932"
+           id="use4936"
+           transform="translate(126.67958)" />
+      </g>
+    </g>
+    <g
+       id="g5170"
+       mask="url(#mask-powermask-path-effect5575)"
+       inkscape:path-effect="#path-effect5575">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect4946"
+         width="49.948956"
+         height="121.90529"
+         x="21.782959"
+         y="21.959076"
+         ry="4.4824677"
+         d="m 26.265427,21.959076 h 40.98402 c 2.483287,0 4.482468,1.999181 4.482468,4.482468 V 139.3819 c 0,2.48328 -1.999181,4.48246 -4.482468,4.48246 h -40.98402 c -2.483287,0 -4.482468,-1.99918 -4.482468,-4.48246 V 26.441544 c 0,-2.483287 1.999181,-4.482468 4.482468,-4.482468 z" />
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect4946-9"
+         width="47.392044"
+         height="139.0121"
+         x="140.825"
+         y="4.8522644"
+         ry="4.4824677"
+         d="m 145.30746,4.8522644 h 38.42711 c 2.48329,0 4.48247,1.9991806 4.48247,4.4824677 V 139.3819 c 0,2.48328 -1.99918,4.48246 -4.48247,4.48246 h -38.42711 c -2.48328,0 -4.48246,-1.99918 -4.48246,-4.48246 V 9.3347321 c 0,-2.4832871 1.99918,-4.4824677 4.48246,-4.4824677 z" />
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect4946-7"
+         width="35.929443"
+         height="95.13076"
+         x="88.313736"
+         y="48.733604"
+         ry="4.4824677"
+         d="m 92.796204,48.733604 h 26.964506 c 2.48329,0 4.48247,1.999181 4.48247,4.482468 V 139.3819 c 0,2.48328 -1.99918,4.48246 -4.48247,4.48246 H 92.796204 c -2.483287,0 -4.482468,-1.99918 -4.482468,-4.48246 V 53.216072 c 0,-2.483287 1.999181,-4.482468 4.482468,-4.482468 z" />
+    </g>
+    <g
+       id="g5423"
+       style="display:none">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5405"
+         width="173.49736"
+         height="9.241168"
+         x="19.138939"
+         y="120.16153"
+         ry="0" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5407"
+         width="55.194588"
+         height="9.241168"
+         x="18.654474"
+         y="35.041599"
+         ry="0.014052614" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5409"
+         width="55.194588"
+         height="9.241168"
+         x="136.80586"
+         y="18.695213"
+         ry="0.014052614" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5411"
+         width="46.956692"
+         height="9.241168"
+         x="82.684052"
+         y="62.175591"
+         ry="0.014052614" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5413"
+         width="12.696198"
+         height="55.963139"
+         x="40.409336"
+         y="54.930149"
+         ry="4.4824677" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5415"
+         width="25.701923"
+         height="10.321663"
+         x="93.427498"
+         y="91.138153"
+         ry="4.4824677" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5417"
+         width="11.627544"
+         height="47.014004"
+         x="158.70724"
+         y="51.846104"
+         ry="3.908062" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5419"
+         width="30.051096"
+         height="9.0236883"
+         x="149.49547"
+         y="36.019066"
+         ry="4.4824677" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5421"
+         width="30.051096"
+         height="9.0236883"
+         x="149.49547"
+         y="105.66346"
+         ry="4.4824677" />
+    </g>
+  </g>
+</svg>
