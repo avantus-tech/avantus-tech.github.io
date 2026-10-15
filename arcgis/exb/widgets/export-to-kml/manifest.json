@@ -1,0 +1,33 @@
+{
+  "name": "export-to-kml",
+  "label": "Export to KML",
+  "type": "widget",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "Avantus LLC",
+  "description": "Adds an Export to KML File data action that downloads the selected features as a KML file.",
+  "copyright": "© 2021-2026 Avantus LLC",
+  "license": "https://opensource.org/licenses/BSD-3-Clause",
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "dataActions": [
+    {
+      "name": "exportToKml",
+      "label": "Export to KML File",
+      "uri": "data-actions/export-to-kml",
+      "icon": "runtime/assets/icons/export-kml.svg"
+    }
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 240,
+    "height": 40
+  }
+}
