@@ -8,5 +8,10 @@
   "userDistances": [],
   "defaultDistance": 0,
   "userAreas": [],
-  "defaultArea": 0
+  "defaultArea": 0,
+  "storageScope": "app-specific",
+  "defaultBufferDistance": 100,
+  "defaultBufferUnit": "feet",
+  "defaultBufferOpacity": 75,
+  "defaultBufferColor": "#d83020"
 }
